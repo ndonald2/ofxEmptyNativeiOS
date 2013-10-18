@@ -19,3 +19,9 @@ DerivedData
 
 #CocoaPods
 Pods
+
+# openFrameworks
+bin/
+
+# vim swap files
+*.swp
